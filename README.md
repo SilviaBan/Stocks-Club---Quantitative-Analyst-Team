@@ -1,1 +1,1 @@
-# Stocks-Club---Quantitative-Analyst-Team
+Stocks-Club---Quantitative-Analyst-Team
